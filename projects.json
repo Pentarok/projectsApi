@@ -33,6 +33,6 @@
     "content": "This project demonstrates how to host a static website on Amazon S3. The site includes an HTML, CSS, and JavaScript frontend that is deployed to an S3 bucket, with configurations for public access and DNS settings. The website is secured using AWS CloudFront for content delivery, making the static site fast and scalable. SSL is also integrated for secure HTTPS access.",
     "image": "https://yourdomain.com/images/s3-static-site-screenshot.png",
     "git_repo_url":"",
-    "view_project_url": "",
+    "view_project_url": ""
   }
 ]
