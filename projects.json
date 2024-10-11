@@ -22,7 +22,7 @@
     "title": "JWT Authentication System - MERN Stack",
     "summary": "A secure authentication system using JWT for a MERN stack application.",
     "content": "This project implements a secure authentication and authorization system using JSON Web Tokens (JWT) in a MERN stack application. It includes features like login, registration, password encryption, session validation, and token expiration handling. Users can safely authenticate and interact with the application, thanks to robust backend validation and encrypted user sessions.",
-    "image": "./assets/profile8.jpeg",
+    "image": "./assets/profile8.png",
     "git_repo_url": "",
     "view_project_url": "https://front-blog-theta.vercel.app/login"
   }
