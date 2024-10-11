@@ -4,7 +4,7 @@
     "title": "Blog App",
     "summary": "A dynamic blogging platform that allows users to create, edit, and delete posts, manage user accounts, and interact with a rich-text editor.",
     "content": "The Blog App is a full-featured web application built with React, Express, and MongoDB. It allows users to register, create and manage blog posts, and engage with content via comments and likes. The project also includes JWT-based authentication, custom hooks, and a clean, responsive UI using TailwindCSS.",
-    "image": "https://yourdomain.com/images/blog-app-screenshot.png",
+    "image": "./assets/profile7.jpeg",
     "git_repo_url": "",
     "view_project_url": "https://front-blog-theta.vercel.app"
   },
@@ -13,7 +13,7 @@
     "title": "Academic Writing Website",
     "summary": "A platform to assist students and researchers with academic writing tasks, featuring tools for managing and submitting assignments.",
     "content": "This website is designed for students and academic professionals to manage writing tasks, submit assignments, and receive feedback. Built using React and Node.js, the platform integrates user authentication, task management, and submission workflows. The responsive design and intuitive interface make it user-friendly across devices.",
-    "image": "https://yourdomain.com/images/academic-writing-screenshot.png",
+    "image": "./assets/profile8.jpeg",
     "git_repo_url": "",
     "view_project_url": "https://scholarcouch.com"
   },
@@ -22,17 +22,9 @@
     "title": "JWT Authentication System - MERN Stack",
     "summary": "A secure authentication system using JWT for a MERN stack application.",
     "content": "This project implements a secure authentication and authorization system using JSON Web Tokens (JWT) in a MERN stack application. It includes features like login, registration, password encryption, session validation, and token expiration handling. Users can safely authenticate and interact with the application, thanks to robust backend validation and encrypted user sessions.",
-    "image": "https://yourdomain.com/images/jwt-authentication-screenshot.png",
+    "image": "./assets/profile8.jpeg",
     "git_repo_url": "",
     "view_project_url": "https://front-blog-theta.vercel.app/login"
   },
-  {
-    "id":4,
-    "title": "Hosting a Static Website on S3",
-    "summary": "A simple and cost-effective method for hosting static websites using Amazon S3.",
-    "content": "This project demonstrates how to host a static website on Amazon S3. The site includes an HTML, CSS, and JavaScript frontend that is deployed to an S3 bucket, with configurations for public access and DNS settings. The website is secured using AWS CloudFront for content delivery, making the static site fast and scalable. SSL is also integrated for secure HTTPS access.",
-    "image": "https://yourdomain.com/images/s3-static-site-screenshot.png",
-    "git_repo_url":"",
-    "view_project_url": ""
-  }
+ 
 ]
