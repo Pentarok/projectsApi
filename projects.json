@@ -4,7 +4,7 @@
     "title": "Blog App",
     "summary": "A dynamic blogging platform that allows users to create, edit, and delete posts, manage user accounts, and interact with a rich-text editor.",
     "content": "The Blog App is a full-featured web application built with React, Express, and MongoDB. It allows users to register, create and manage blog posts, and engage with content via comments and likes. The project also includes JWT-based authentication, custom hooks, and a clean, responsive UI using TailwindCSS.",
-    "image": "./assets/profile7.jpeg",
+    "image": "./assets/profile7.png",
     "git_repo_url": "",
     "view_project_url": "https://front-blog-theta.vercel.app"
   },
