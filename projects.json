@@ -13,7 +13,7 @@
     "title": "Academic Writing Website",
     "summary": "A platform to assist students and researchers with academic writing tasks, featuring tools for managing and submitting assignments.",
     "content": "This website is designed for students and academic professionals to manage writing tasks, submit assignments, and receive feedback. Built using React and Node.js, the platform integrates user authentication, task management, and submission workflows. The responsive design and intuitive interface make it user-friendly across devices.",
-    "image": "./assets/profile8.jpeg",
+    "image": "./assets/profile8.png",
     "git_repo_url": "",
     "view_project_url": "https://scholarcouch.com"
   },
