@@ -1,30 +1,14 @@
 [
-  {
-    "id":1,
-    "title": "Blog App",
-    "summary": "A dynamic blogging platform that allows users to create, edit, and delete posts, manage user accounts, and interact with a rich-text editor.",
-    "content": "The Blog App is a full-featured web application built with React, Express, and MongoDB. It allows users to register, create and manage blog posts, and engage with content via comments and likes. The project also includes JWT-based authentication, custom hooks, and a clean, responsive UI using TailwindCSS.",
-    "image": "./assets/profile7.png",
-    "git_repo_url": "",
-    "view_project_url": "https://front-blog-theta.vercel.app"
-  },
+ 
   {
     "id":2,
-    "title": "Academic Writing Website",
+    "title": "Academic Coaching Website",
     "summary": "A platform to assist students and researchers with academic writing tasks, featuring tools for managing and submitting assignments.",
     "content": "This website is designed for students and academic professionals to manage writing tasks, submit assignments, and receive feedback. Built using React and Node.js, the platform integrates user authentication, task management, and submission workflows. The responsive design and intuitive interface make it user-friendly across devices.",
     "image": "./assets/profile8.png",
     "git_repo_url": "",
     "view_project_url": "https://scholarcouch.com"
-  },
-  {
-    "id":3,
-    "title": "JWT Authentication System - MERN Stack",
-    "summary": "A secure authentication system using JWT for a MERN stack application.",
-    "content": "This project implements a secure authentication and authorization system using JSON Web Tokens (JWT) in a MERN stack application. It includes features like login, registration, password encryption, session validation, and token expiration handling. Users can safely authenticate and interact with the application, thanks to robust backend validation and encrypted user sessions.",
-    "image": "./assets/profile8.png",
-    "git_repo_url": "",
-    "view_project_url": "https://front-blog-theta.vercel.app/login"
   }
+
  
 ]
